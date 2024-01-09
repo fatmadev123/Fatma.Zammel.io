@@ -753,9 +753,7 @@ span.overlay-close{
     align-items: center;
     justify-content: center;
 }
-.projects ul li .client-data img{
-    border-radius: 100%;
-}
+
 .projects ul li .client-name{
     display: block;
     margin: 15px 0;
